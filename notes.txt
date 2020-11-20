@@ -2,3 +2,6 @@ py manage.py startapp 'polls' #parang "new component" sa angular pero complete s
 
 
 test test test
+
+
+test test test
