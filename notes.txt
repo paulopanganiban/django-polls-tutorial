@@ -1,0 +1,1 @@
+py manage.py startapp 'polls' #parang "new component" sa angular pero complete shit na.
